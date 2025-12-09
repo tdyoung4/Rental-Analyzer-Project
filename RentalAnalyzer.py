@@ -225,21 +225,30 @@ def main():
         with col1:
             # Rent vs Amenities scatter
             st.subheader("Rent vs Amenities")
+            
+            # Recalculate total amenities correctly
+            filtered_df['total_amenities_correct'] = (
+                filtered_df['restaurant_count'] + 
+                filtered_df['shop_count'] + 
+                filtered_df['grocery_count']
+            )
+            
             fig1 = px.scatter(
                 filtered_df,
-                x='total_amenities',
+                x='total_amenities_correct',
                 y='median_rent',
                 size='value_score',
                 color='value_score',
                 hover_name='name',
                 labels={
-                    'total_amenities': 'Total Amenities',
+                    'total_amenities_correct': 'Total Amenities',
                     'median_rent': 'Monthly Rent ($)',
                     'value_score': 'Value Score'
                 },
                 color_continuous_scale='Viridis'
             )
             fig1.update_layout(height=400)
+            fig1.update_xaxes(tickformat=",d")  # Format as integers, no abbreviation
             st.plotly_chart(fig1, use_container_width=True)
         
         with col2:
