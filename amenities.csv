@@ -1,0 +1,46 @@
+name,restaurant_count,shop_count,grocery_count,total_amenities
+Hollywood (Los Angeles),49,50,3,49503
+Santa Monica (Los Angeles),80,199,5,801995
+Venice (Los Angeles),41,125,1,411251
+Downtown LA (Los Angeles),121,136,3,1211363
+Silver Lake (Los Angeles),31,29,0,31290
+Culver City (Los Angeles),68,104,4,681044
+Pasadena (Los Angeles),115,185,1,1151851
+West Hollywood (Los Angeles),28,97,3,28973
+Koreatown (Los Angeles),92,37,7,92377
+Beverly Hills (Los Angeles),33,114,2,331142
+Long Beach (Los Angeles),61,93,2,61932
+Burbank (Los Angeles),43,118,2,431182
+Westwood (Los Angeles),47,78,4,47784
+Brentwood (Los Angeles),3,20,2,3202
+Manhattan Beach (Los Angeles),20,34,2,20342
+Mission District (San Francisco),177,324,13,17732413
+SoMa (San Francisco),136,308,8,1363088
+Castro (San Francisco),58,139,1,581391
+Pacific Heights (San Francisco),112,237,4,1122374
+Marina District (San Francisco),62,142,3,621423
+Nob Hill (San Francisco),320,853,17,32085317
+Richmond District (San Francisco),92,180,4,921804
+Sunset District (San Francisco),40,78,3,40783
+Potrero Hill (San Francisco),31,62,1,31621
+Haight-Ashbury (San Francisco),37,170,6,371706
+North Beach (San Francisco),226,502,14,22650214
+Chinatown (San Francisco),363,807,17,36380717
+Gaslamp Quarter (San Diego),123,116,5,1231165
+La Jolla (San Diego),22,29,1,22291
+Pacific Beach (San Diego),18,48,2,18482
+Hillcrest (San Diego),31,46,3,31463
+North Park (San Diego),27,40,2,27402
+Little Italy (San Diego),76,56,5,76565
+Ocean Beach (San Diego),36,100,3,361003
+Point Loma (San Diego),0,0,0,000
+Mission Bay (San Diego),1,30,0,1300
+Del Mar (San Diego),12,23,1,12231
+Downtown San Jose (San Jose),90,187,2,901872
+Willow Glen (San Jose),24,77,1,24771
+Santana Row (San Jose),43,337,2,433372
+Japantown (San Jose),20,134,3,201343
+Rose Garden (San Jose),8,106,2,81062
+Almaden Valley (San Jose),3,2,0,320
+Cambrian Park (San Jose),2,14,0,2140
+Evergreen (San Jose),9,33,2,9332

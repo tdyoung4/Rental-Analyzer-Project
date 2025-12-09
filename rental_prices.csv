@@ -1,0 +1,46 @@
+name,city,latitude,longitude,median_rent
+Hollywood (Los Angeles),Los Angeles,34.0928,-118.3287,3310
+Santa Monica (Los Angeles),Los Angeles,34.0195,-118.4912,2960
+Venice (Los Angeles),Los Angeles,33.985,-118.4695,4100
+Downtown LA (Los Angeles),Los Angeles,34.0522,-118.2437,3390
+Silver Lake (Los Angeles),Los Angeles,34.087,-118.2704,6100
+Culver City (Los Angeles),Los Angeles,34.0211,-118.3965,3790
+Pasadena (Los Angeles),Los Angeles,34.1478,-118.1445,3470
+West Hollywood (Los Angeles),Los Angeles,34.09,-118.3617,4360
+Koreatown (Los Angeles),Los Angeles,34.0579,-118.3009,3040
+Beverly Hills (Los Angeles),Los Angeles,34.0736,-118.4004,10030
+Long Beach (Los Angeles),Los Angeles,33.7701,-118.1937,2740
+Burbank (Los Angeles),Los Angeles,34.1808,-118.309,2910
+Westwood (Los Angeles),Los Angeles,34.0633,-118.4456,5770
+Brentwood (Los Angeles),Los Angeles,34.0536,-118.4772,5180
+Manhattan Beach (Los Angeles),Los Angeles,33.8847,-118.4109,12080
+Mission District (San Francisco),San Francisco,37.7599,-122.4148,2070
+SoMa (San Francisco),San Francisco,37.7749,-122.4194,3720
+Castro (San Francisco),San Francisco,37.7609,-122.435,5990
+Pacific Heights (San Francisco),San Francisco,37.7931,-122.4358,3840
+Marina District (San Francisco),San Francisco,37.8024,-122.4381,9350
+Nob Hill (San Francisco),San Francisco,37.7919,-122.4155,2470
+Richmond District (San Francisco),San Francisco,37.7787,-122.4645,4550
+Sunset District (San Francisco),San Francisco,37.7479,-122.4822,4630
+Potrero Hill (San Francisco),San Francisco,37.7578,-122.3979,6840
+Haight-Ashbury (San Francisco),San Francisco,37.7692,-122.4481,4740
+North Beach (San Francisco),San Francisco,37.8006,-122.4104,3270
+Chinatown (San Francisco),San Francisco,37.7941,-122.4078,1770
+Gaslamp Quarter (San Diego),San Diego,32.7115,-117.1597,3380
+La Jolla (San Diego),San Diego,32.8328,-117.2713,8200
+Pacific Beach (San Diego),San Diego,32.7967,-117.2357,3010
+Hillcrest (San Diego),San Diego,32.7486,-117.1664,3200
+North Park (San Diego),San Diego,32.7411,-117.1297,3390
+Little Italy (San Diego),San Diego,32.7209,-117.1698,4710
+Ocean Beach (San Diego),San Diego,32.7475,-117.2489,3460
+Point Loma (San Diego),San Diego,32.7341,-117.2407,5420
+Mission Bay (San Diego),San Diego,32.7642,-117.2267,3490
+Del Mar (San Diego),San Diego,32.9595,-117.2653,7630
+Downtown San Jose (San Jose),San Jose,37.3382,-121.8863,2900
+Willow Glen (San Jose),San Jose,37.3044,-121.8896,4600
+Santana Row (San Jose),San Jose,37.3207,-121.9483,4950
+Japantown (San Jose),San Jose,37.3469,-121.895,2300
+Rose Garden (San Jose),San Jose,37.3399,-121.919,4710
+Almaden Valley (San Jose),San Jose,37.2091,-121.8355,5480
+Cambrian Park (San Jose),San Jose,37.2527,-121.9297,4530
+Evergreen (San Jose),San Jose,37.3155,-121.7906,3960
